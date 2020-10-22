@@ -1,0 +1,14 @@
+hellohellohellohello
+
+
+''' 1. will ask student or teacher
+2. if teacher ask to see result or add new entries
+3. if read, display all records
+4. if write, first print number of existing record
+after adding write no of total record'''
+
+#class
+GIT
+API
+PANDAS
+CSV
